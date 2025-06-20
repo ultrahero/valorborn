@@ -1,0 +1,3 @@
+git add .
+git commit -m "Discord bot ready for Render"
+git push origin main
